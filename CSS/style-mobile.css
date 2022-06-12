@@ -26,8 +26,8 @@
         justify-content: center;
         align-items: center;
         background:
-            url(images/bg-pattern-top-mobile.svg) top no-repeat,
-            url(images/bg-pattern-bottom-mobile.svg) bottom no-repeat;
+            url(../images/bg-pattern-top-mobile.svg) top no-repeat,
+            url(../images/bg-pattern-bottom-mobile.svg) bottom no-repeat;
     }
 
     header {
